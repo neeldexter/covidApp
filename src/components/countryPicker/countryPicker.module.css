@@ -1,0 +1,8 @@
+.bar{
+    margin: auto;
+    display: block;
+    width: 81%;
+    background: white;
+    opacity: .9;
+    border-radius: 10px;
+  }

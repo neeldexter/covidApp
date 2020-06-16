@@ -1,0 +1,17 @@
+.container{
+  padding: 5%;
+}
+.barchart{
+  margin: auto;
+  display: block;
+  width: 90%;
+  background: white;
+  opacity: .9;
+  border-radius: 10px;
+}
+/* .canvas.chartjs-render-monitor{
+    margin: auto !important;
+    display: block;
+    width: 700px !important;
+    height: 400px !important;
+} */
