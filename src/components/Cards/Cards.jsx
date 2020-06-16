@@ -34,7 +34,7 @@ class Cards extends Component {
 
             <div className={styles.container}>
                 <img src={COVID} className={styles.logo} alt="logo" />
-                <TextField label="Country" name="dig" value={this.state.dig} variant="filled" onChange={this.Val}
+                <TextField label="Countries" name="dig" value={this.state.dig} variant="filled" onChange={this.Val}
                 />
                 {this.state.loading ?
                     <Grid container justify="center">
